@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Sumit Kumar.
-Student of Darbhanga college of Engineering, Darbhanga
+
